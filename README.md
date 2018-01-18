@@ -1,6 +1,10 @@
-# jkphl/micrometa
+# silktide/micrometa
 
-[![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![Scrutinizer Code Quality][scrutinizer-image]][scrutinizer-url] [![Code Climate][codeclimate-image]][codeclimate-url] [![Documentation Status][readthedocs-image]][readthedocs-url] [![Clear architecture][clear-architecture-image]][clear-architecture-url]
+## FORK DETAILS
+
+Forked from https://github.com/jkphl/micrometa on Thu, 18th Jan 2018 (release 2.1.0) to allow PR https://github.com/jkphl/micrometa/pull/25 to be merged in to fix JSON-LD issue.
+
+
 
 > A meta parser for extracting micro information out of web documents, currently supporting Microformats 1+2, HTML Microdata, RDFa Lite 1.1, JSON-LD and Link Types
 
